@@ -1,4 +1,5 @@
-## Code:
+
+## Code-Basic:
 ```cpp
 class Solution {
 public:
@@ -15,6 +16,5 @@ public:
     }
 };
 ```
-
 ## Screenshot:
-![Accepted](Day-1.png)
+<img width="1908" height="821" alt="Screenshot 2026-03-22 112020" src="https://github.com/user-attachments/assets/357e1ebf-da29-4326-9795-e4647ba73486" />
